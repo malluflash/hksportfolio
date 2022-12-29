@@ -257,7 +257,7 @@ h6 {
 } */
 
 #hero p {
-  color: #fffff;
+  color: #ffffff !important;
   font-size: 44px;
   font-family: "Poppins", sans-serif;
 }
